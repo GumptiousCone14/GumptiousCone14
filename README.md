@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @GumptiousCone14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-GumptiousCone14/GumptiousCone14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋 I'm @GumptiousCone14
+
+Welcome to my GitHub profile!
+
+👨‍💻 About Me
+
+I’m passionate about exploring technology and building projects that help me learn and grow as a developer. I enjoy experimenting with new tools, improving my coding skills, and contributing to interesting ideas.
+
+🔍 Interests
+
+- Software development
+- Learning new programming technologies
+- Building practical and creative projects
+
+🌱 Currently Learning
+
+I’m continuously expanding my knowledge and currently focusing on improving my development skills and exploring new technologies.
+
+🤝 Collaboration
+
+I’m open to collaborating on interesting projects, learning opportunities, and innovative ideas. If you’re working on something exciting, feel free to reach out!
+
+📫 Contact
+
+You can connect with me here on GitHub or through any of the platforms listed on my profile.
+
+---
+
+⭐ Thanks for visiting my profile!
